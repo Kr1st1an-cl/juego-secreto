@@ -2,4 +2,4 @@
 
 Estado del proyecto: Beta test
 
-´´´ Prueba de código ´´´
+``` Prueba de código ```
